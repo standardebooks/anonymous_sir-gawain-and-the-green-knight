@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="fit-1.xhtml">
+		<ignore>
+			<code>t-075</code>
+			<reason>Acute accents are used to show rising rhythm.</reason>
+		</ignore>
+	</file>
+	<file path="fit-2.xhtml">
+		<ignore>
+			<code>t-075</code>
+			<reason>Acute accents are used to show rising rhythm.</reason>
+		</ignore>
+	</file>
+	<file path="fit-3.xhtml">
+		<ignore>
+			<code>t-075</code>
+			<reason>Acute accents are used to show rising rhythm.</reason>
+		</ignore>
+	</file>
+	<file path="fit-4.xhtml">
+		<ignore>
+			<code>t-075</code>
+			<reason>Acute accents are used to show rising rhythm.</reason>
+		</ignore>
+	</file>
+	<file path="introduction.xhtml">
+		<ignore>
+			<code>t-075</code>
+			<reason>Acute accents are used to show rising rhythm.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>

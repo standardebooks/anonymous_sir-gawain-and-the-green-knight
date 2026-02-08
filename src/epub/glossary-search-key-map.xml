@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search-key-map xmlns="http://www.idpf.org/2007/ops" xml:lang="en">
+	<search-key-group href="text/glossary.xhtml#accoll">
+		<match value="accoll"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#adree">
+		<match value="adree"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#athel">
+		<match value="athel"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#beam">
+		<match value="beam"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#boun">
+		<match value="boun"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#brawden">
+		<match value="brawden"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#burd">
+		<match value="burd"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#capados">
+		<match value="capados"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#carol">
+		<match value="carol"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#disport">
+		<match value="disport"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dree">
+		<match value="dree"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#druery">
+		<match value="druery"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ettle">
+		<match value="ettle"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#fey">
+		<match value="fey"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#foreward">
+		<match value="foreward"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#fraunchise">
+		<match value="fraunchise"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#free">
+		<match value="free"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#gersom">
+		<match value="gersom"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#gisarm">
+		<match value="gisarm"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#glede">
+		<match value="glede"/>
+		<match value="gledes"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#grame">
+		<match value="grame"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#graith">
+		<match value="graith"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#graithe">
+		<match value="graithes"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#graithly">
+		<match value="graithly"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#halch">
+		<match value="halchèd"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#handsel">
+		<match value="handsel"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#hap">
+		<match value="hap"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#haulm">
+		<match value="haulm"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kind">
+		<match value="kind"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#laik">
+		<match value="laik"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#launce">
+		<match value="launces"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#laund">
+		<match value="laund"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#learn">
+		<match value="learn"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#leer">
+		<match value="leer"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lout">
+		<match value="louts"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#meiny">
+		<match value="meiny"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#moot">
+		<match value="moot"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#nick">
+		<match value="nick"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#oerwalted">
+		<match value="o’erwalted"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#price">
+		<match value="price"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#prick">
+		<match value="prick"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#prize">
+		<match value="prize"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#quarry">
+		<match value="quarry"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#raught">
+		<match value="raught"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#roan">
+		<match value="roan"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#rouncy">
+		<match value="rouncy"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sain">
+		<match value="sain"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sendal">
+		<match value="sendal"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sickar">
+		<match value="sickar"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#slot">
+		<match value="slot"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#spirr">
+		<match value="spirr"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#stale">
+		<match value="stale"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#stoor">
+		<match value="stoor"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#stour">
+		<match value="stour"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tent">
+		<match value="tent"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#thro">
+		<match value="thro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tressure">
+		<match value="tressure"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#unlace">
+		<match value="unlace"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#villainy">
+		<match value="villainy"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ware">
+		<match value="ware"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#weird">
+		<match value="weird"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#wight">
+		<match value="wight"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#wone">
+		<match value="wone"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#yern">
+		<match value="yerns"/>
+	</search-key-group>
+</search-key-map>
