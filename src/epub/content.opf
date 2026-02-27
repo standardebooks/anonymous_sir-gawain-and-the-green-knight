@@ -57,6 +57,7 @@
 		<meta property="se:name.person.full-name" refines="#editor">Samuel Ogden Andrew</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Samuel_Ogden_Andrew</meta>
 		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/no97063758</meta>
+		<meta property="display-seq" refines="#editor">1</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">ill</meta>
